@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.0.2] - 2026-05-15
+
+### Changed
+
+- Updated README version references to `3.0.2`.
+
 ## [3.0.1] - 2026-05-15
 
 ### Fixed

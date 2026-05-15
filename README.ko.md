@@ -2,7 +2,7 @@
 
 Languages: [English](./README.md) | [Korean](./README.ko.md)
 
-Current version: `3.0.0`
+Current version: `3.0.2`
 
 `figma-compaction-mcp`는 Figma 링크 기반 작업 흐름을 위한 MCP 서버입니다.  
 이 서버는 상위 Figma 디자인 컨텍스트를 내부적으로 가져온 뒤, 이를 compact plain-text context로 정리하고, 전체 상위 payload 대신 축약된 결과를 호출한 에이전트에 반환합니다.

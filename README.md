@@ -2,7 +2,7 @@
 
 Languages: [English](./README.md) | [Korean](./README.ko.md)
 
-Current version: `3.0.0`
+Current version: `3.0.2`
 
 `figma-compaction-mcp` is an MCP server for Figma-link workflows. It fetches upstream Figma design context internally, prunes it into compact plain-text context, and returns that reduced result to the calling agent instead of the full upstream payload.
 
